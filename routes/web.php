@@ -16,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/internet-explorer', function () {
+    return view('internet-explorer');
+})->name('internet-explorer');
