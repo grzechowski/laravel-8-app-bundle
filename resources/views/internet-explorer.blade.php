@@ -4,14 +4,16 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>No IE</title>
+        <title>Internet Explorer</title>
 
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
-        <script src="{{ mix('/js/app.js') }}"></script>
+        <link rel="stylesheet" type="text/css" href="{{ mix('/css/app.css') }}">
 
     </head>
     <body>
-        Internet Explorer is not supported!
+        <div class="container">
+            <div class="alert alert-danger text-center" role="alert">
+                Internet Explorer is not supported!
+            </div>
+        </div>
     </body>
 </html>
