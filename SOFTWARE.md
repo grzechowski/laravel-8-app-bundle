@@ -8,6 +8,6 @@ Setup of:
   * [Vue 2](https://vuejs.org/v2/guide/)
   * [Material](https://material.io/)
   * [SPATIE Media Library](https://spatie.be/docs/laravel-medialibrary/v9/introduction)
-  * [Merito LVSS 01](https://github.com/grzechowski/merito-lvss-01)
+  * [Merito LVSSB](https://github.com/grzechowski/merito-lvssb)
 
 Please check licensing of every open-source component.
