@@ -1,6 +1,6 @@
 # SOFTWARE
 
-This is just a bundle to quicken multi-project development
+This is just a [bundle to quicken multi-project development](https://github.com/grzechowski/laravel-8-app-bundle)
 
 Setup of:
   * [Laravel 8](https://laravel.com/docs/8.x/)
