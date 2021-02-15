@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "43b94df1b526e2e3c556e22fe5407711",
+    "content-hash": "feecd4a2230d3c580044b335431020a2",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -622,7 +622,7 @@
         },
         {
             "name": "grzechowski/merito-lvssb",
-            "version": "dev-dev",
+            "version": "dev-main",
             "source": {
                 "type": "git",
                 "url": "https://github.com/grzechowski/merito-lvssb.git",
