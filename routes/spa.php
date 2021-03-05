@@ -13,4 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('{path}', Grzechowski\MeritoLvssb\Http\Controllers\SpaController::class)->where('path', '(.*)');
+Route::get('{path}', SpaController::class)->where('path', '(.*)');
